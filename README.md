@@ -7,3 +7,5 @@ Thank you to the authors of the template we modify to create our website.
 =>  Author Website   : https://htmlcodex.com
 
 =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+
+=> NSBE Photos Link : https://drive.google.com/drive/folders/17wDAHb4JXCdTo8EnJ4sFgSlUPL44nEPs?usp=sharing & https://drive.google.com/drive/folders/17gbber9O2mipUrMdoPBhydAU6BmeEAt-?usp=sharing
