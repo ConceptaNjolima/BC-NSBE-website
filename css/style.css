@@ -59,9 +59,9 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #818491;
+  color: #010113;
   text-align: left;
-  background-color: #FFFFFF;
+  background-color: #e8e6e6;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -9609,7 +9609,7 @@ h4, h5, h6 {
 }
 
 .bg-gallery {
-  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/gallery.jpg), no-repeat center center;
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/49NSBE.jpg), no-repeat center center;
   background-size: cover;
 }
 
