@@ -9273,11 +9273,11 @@ a.text-primary:hover, a.text-primary:focus {
 }
 
 .text-secondary {
-  color: #F3F6FF !important;
+  color: #1c1a1b !important;
 }
 
 a.text-secondary:hover, a.text-secondary:focus {
-  color: #a7bdff !important;
+  color: #fff !important;
 }
 
 .text-success {
