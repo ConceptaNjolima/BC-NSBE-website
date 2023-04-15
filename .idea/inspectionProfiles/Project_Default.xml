@@ -4,7 +4,20 @@
     <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
       <option name="ignoredErrors">
         <list>
+<<<<<<< HEAD
           <option value="N802" />
+=======
+          <option value="N806" />
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="bytes.decrypt" />
+          <option value="list.endswith" />
+>>>>>>> 0bb0bc1 (Added new colors and join button to the same div.)
         </list>
       </option>
     </inspection_tool>
