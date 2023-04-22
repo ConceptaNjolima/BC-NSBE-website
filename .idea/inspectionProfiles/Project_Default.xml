@@ -5,6 +5,7 @@
       <option name="ignoredErrors">
         <list>
 <<<<<<< HEAD
+<<<<<<< HEAD
           <option value="N802" />
 =======
           <option value="N806" />
@@ -18,6 +19,9 @@
           <option value="bytes.decrypt" />
           <option value="list.endswith" />
 >>>>>>> 0bb0bc1 (Added new colors and join button to the same div.)
+=======
+          <option value="N802" />
+>>>>>>> 1a8ee5b (Added more EC members.)
         </list>
       </option>
     </inspection_tool>
