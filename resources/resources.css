@@ -39,13 +39,46 @@ h1{
 
 #logo_container {
     display: flex;
-    margin-right: 2%;
-    margin-right: 30%;
+    margin-left: 8%;
+    margin-right: 3%;
     align-items: center;
+}
+
+#scholarship_description{
+    margin-left: 8%;
+    margin-right: 3%;
+    background-color: aliceblue;
+    font-size: small;
 }
 #company_logo {
     display: block;
     height: 23vh;
     width: 20%;
 
+}
+
+.faq_container{
+    background-color: blueviolet;
+    margin-left: 5%;
+    margin-right: 10%;
+    height: 10%;
+}
+
+.btn.btn-primary{
+    font-size: larger;
+    background-color: blueviolet;
+    display: block;
+    text-align: left;
+    width: 100%;
+}
+
+.collapse{
+    background-color: aliceblue;
+    margin-left: 5%;
+    margin-right: 10%;
+}
+
+.card.card-body{
+    background-color: aliceblue;
+    width: 100%;
 }
