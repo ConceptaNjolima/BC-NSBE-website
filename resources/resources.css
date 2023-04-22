@@ -62,7 +62,7 @@ h1{
     height: 10%;
 }
 
-.btn.btn-primary{
+.btn.btn-light{
     font-size: larger;
     background-color: rgba(217, 217, 217, 1);
     border-color: rgba(217, 217, 217, 1);
