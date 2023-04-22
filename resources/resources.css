@@ -6,8 +6,6 @@ h1{
     background-color:aliceblue; 
 }
 
-.main_container {
-}
 
 .event_content h1{
     text-align: center;
@@ -58,7 +56,7 @@ h1{
 }
 
 .faq_container{
-    background-color: blueviolet;
+    background-color: rgba(217, 217, 217, 1);
     margin-left: 5%;
     margin-right: 10%;
     height: 10%;
@@ -66,10 +64,27 @@ h1{
 
 .btn.btn-primary{
     font-size: larger;
-    background-color: blueviolet;
+    background-color: rgba(217, 217, 217, 1);
+    border-color: rgba(217, 217, 217, 1);
     display: block;
     text-align: left;
     width: 100%;
+    color: black;
+}
+
+.btn.btn-primary:active{
+    background-color: rgb(169, 166, 166);
+    border-color: rgb(169, 166, 166);
+}
+
+.btn.btn-primary:hover{
+    background-color: rgb(169, 166, 166);
+    border-color: rgb(169, 166, 166);
+}
+
+.btn.btn-primary:focus{
+    background-color: rgb(169, 166, 166);
+    border-color: rgb(169, 166, 166);
 }
 
 .collapse{
