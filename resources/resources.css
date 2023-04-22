@@ -1,0 +1,119 @@
+/* @import '../css/style.css';
+@import '../css/style.min.css'; */
+
+
+.main {
+    margin-top: 5%;
+    background-color:aliceblue; 
+}
+
+
+.event_content h1{
+    text-align: center;
+    display: block;
+    margin: auto;
+    color: #44b156;
+}
+
+#more {
+    display:flex;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.event_image_container {
+    display:contents;
+    align-items: center;
+    width: max-content;
+    height: 90vh;
+}
+
+#event_image {
+    display: block;
+    margin-left: 2%;
+    height: fit-content;
+    width: 30vw;
+}
+
+#logo_container {
+    display: flex;
+    margin-left: 8%;
+    margin-right: 3%;
+    align-items: center;
+}
+
+#scholarship_description{
+    margin-left: 8%;
+    margin-right: 10%;
+    background-color: aliceblue;
+    font-size: small;
+}
+#company_logo {
+    display: block;
+    height: 23vh;
+    width: 20%;
+
+}
+
+.faq_container{
+    background-color: rgba(217, 217, 217, 1);
+    margin-left: 5%;
+    margin-right: 10%;
+    height: 10%;
+}
+
+.btn.btn-light{
+    font-size: larger;
+    background-color: rgba(217, 217, 217, 1);
+    border-color: rgba(217, 217, 217, 1);
+    display: block;
+    text-align: left;
+    width: 100%;
+    color: black;
+}
+
+.btn.btn-custom{
+    font-size: larger;
+    background-color: rgba(68, 177, 86, 255);
+    color:rgb(235, 228, 16, 255); 
+    text-align: center;
+    position: relative;
+    left: 45%;
+    margin-bottom: 5%; 
+
+}
+
+.btn.btn-primary:active{
+    background-color: rgb(169, 166, 166);
+    border-color: rgb(169, 166, 166);
+}
+
+.btn.btn-primary:hover{
+    background-color: rgb(169, 166, 166);
+    border-color: rgb(169, 166, 166);
+}
+
+.btn.btn-primary:focus{
+    background-color: rgb(169, 166, 166);
+    border-color: rgb(169, 166, 166);
+}
+
+.collapse{
+    background-color: aliceblue;
+    margin-left: 5%;
+    margin-right: 10%;
+}
+
+.card.card-body{
+    background-color: aliceblue;
+    width: 100%;
+}
+
+.container_fluid > p{
+    font-size:larger;
+}
+
+#navbarCollapse{
+    background-color: #343a40;
+}
