@@ -1,0 +1,51 @@
+h1{
+    color: rgb(97, 95, 95);
+}
+
+.main {
+    background-color:aliceblue; 
+}
+
+.main_container {
+}
+
+.event_content h1{
+    text-align: center;
+    display: block;
+    margin: auto;
+    color: #44b156;
+}
+
+#more {
+    display:flex;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.event_image_container {
+    display:contents;
+    align-items: center;
+    width: max-content;
+    height: 90vh;
+}
+
+#event_image {
+    display: block;
+    margin-left: 2%;
+    height: fit-content;
+    width: 30vw;
+}
+
+#logo_container {
+    display: flex;
+    margin-right: 2%;
+    margin-right: 30%;
+    align-items: center;
+}
+#company_logo {
+    display: block;
+    height: 23vh;
+    width: 20%;
+
+}
