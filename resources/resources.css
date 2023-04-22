@@ -72,6 +72,16 @@ h1{
     color: black;
 }
 
+.btn.btn-custom{
+    font-size: larger;
+    background-color: rgba(68, 177, 86, 255);
+    color:rgb(235, 228, 16, 255); 
+    text-align: center;
+    position: relative;
+    left: 50%;
+
+}
+
 .btn.btn-primary:active{
     background-color: rgb(169, 166, 166);
     border-color: rgb(169, 166, 166);
