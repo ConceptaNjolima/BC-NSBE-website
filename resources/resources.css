@@ -3,6 +3,7 @@
 
 
 .main {
+    margin-top: 5%;
     background-color:aliceblue; 
 }
 
@@ -78,8 +79,8 @@
     color:rgb(235, 228, 16, 255); 
     text-align: center;
     position: relative;
-    left: 50%;
-    margin: 5%; 
+    left: 45%;
+    margin-bottom: 5%; 
 
 }
 
@@ -111,4 +112,8 @@
 
 .container_fluid > p{
     font-size:larger;
+}
+
+#navbarCollapse{
+    background-color: #343a40;
 }
