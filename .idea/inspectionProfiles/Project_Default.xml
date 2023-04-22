@@ -7,6 +7,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> cf3dd62 (Added more EC members.)
           <option value="N802" />
 =======
 =======
@@ -22,12 +25,19 @@
           <option value="bytes.decrypt" />
           <option value="list.endswith" />
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 0bb0bc1 (Added new colors and join button to the same div.)
 =======
           <option value="N802" />
 >>>>>>> 1a8ee5b (Added more EC members.)
 =======
 >>>>>>> 0bb0bc1 (Added new colors and join button to the same div.)
+=======
+>>>>>>> 0bb0bc1ab3096619089856d21793cb4be7b60208
+=======
+          <option value="N802" />
+>>>>>>> 2a22904 (Added more EC members.)
+>>>>>>> cf3dd62 (Added more EC members.)
         </list>
       </option>
     </inspection_tool>
