@@ -79,6 +79,7 @@ h1{
     text-align: center;
     position: relative;
     left: 50%;
+    margin: 5%; 
 
 }
 
@@ -106,4 +107,8 @@ h1{
 .card.card-body{
     background-color: aliceblue;
     width: 100%;
+}
+
+.container_fluid > p{
+    font-size:larger;
 }
